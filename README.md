@@ -16,6 +16,14 @@ A smart monitoring system that sends temperature, humidity, and light intensity 
 - BH1750 sensor (light intensity)
 - Breadboard and jumper wires
 
+## Wiring Diagram
+
+Connect components as shown in the schematic below:
+
+### Fritzing Schematic
+
+![Fritzing Wiring Diagram](images/fritzing_diagram.jpg)
+
 ## Required Libraries
 
 - WiFiNINA
@@ -24,3 +32,11 @@ A smart monitoring system that sends temperature, humidity, and light intensity 
 - BH1750 by Christopher Laws
 
 See code comments and documentation for setup and configuration details.
+
+## ThingSpeak Dashboard
+
+The following screenshots show the real-time data visualization in ThingSpeak:
+
+### ThingSpeak Charts
+
+![ThingSpeak Charts](images/thingspeak.jpg)
