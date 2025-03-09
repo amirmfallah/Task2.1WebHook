@@ -22,6 +22,7 @@ Connect components as shown in the schematic below:
 
 ### Fritzing Schematic
 
+![Fritzing Schematic Diagram](images/fritzing_schem.png)
 ![Fritzing Wiring Diagram](images/fritzing_diagram.jpg)
 
 ## Required Libraries
